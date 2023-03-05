@@ -1,7 +1,9 @@
 # Personal_Finance_Tracker
 
+### Introduction
 I created a Finance Tracker Dashboard using microsoft excel. Personal Finance Tracker lets you to see all your money in one place by automatically updating your checking, credit card, loan, investment, and other account finance data. 
 
+### Problem Statement
 This dashboard can help you track your monthly budget by income and expenses, avoid of late fee, improve money saving, meet your financial objectives.
 
 The purpose of this dashboard is to summarize what you earn against what you spend to help you plan for long and short-term goals. Using a personal finance tracker can help make your financial health a priority by keeping spending in check and savings on the rise!
