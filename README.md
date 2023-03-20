@@ -8,6 +8,9 @@ This dashboard can help you track your monthly budget by income and expenses, av
 
 The purpose of this dashboard is to summarize what you earn against what you spend to help you plan for long and short-term goals. Using a personal finance tracker can help make your financial health a priority by keeping spending in check and savings on the rise!
 
+### TECH STACK
+Microsoft Excel
+
 ### Key Importance
 1. Avoidance of Late Fee
 2. Improved Money Saving 
